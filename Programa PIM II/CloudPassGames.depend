@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1666567716 source:s:\cloudpassgames\cloudpassgames\main.c
+	"CloudHeader.h"
+
+1666987615 s:\cloudpassgames\cloudpassgames\cloudheader.h
+	"stdio.h"
+	"stdlib.h"
+	"locale.h"
+	"windows.h"
+	"conio.h"
+	"string.h"
+
+1665965385 source:s:\cloudpassgames\cloudpassgames\menuprincipaladm.c
+	"CloudHeader.h"
+
+1666567663 source:s:\cloudpassgames\cloudpassgames\design.c
+	"CloudHeader.h"
+
+1666988393 source:s:\cloudpassgames\cloudpassgames\telainicial.c
+	"CloudHeader.h"
+
+1666996443 source:s:\cloudpassgames\cloudpassgames\telalogincadastro.c
+	"CloudHeader.h"
+
+1669338315 source:e:\projetos\cloudpassgames\cloudpassgames\design.c
+	"CloudHeader.h"
+
+1669249872 e:\projetos\cloudpassgames\cloudpassgames\cloudheader.h
+	"stdio.h"
+	"stdlib.h"
+	"locale.h"
+	"windows.h"
+	"conio.h"
+	"string.h"
+	"ctype.h"
+
+1669339816 source:e:\projetos\cloudpassgames\cloudpassgames\main.c
+	"CloudHeader.h"
+
+1669340200 source:e:\projetos\cloudpassgames\cloudpassgames\menuprincipaladm.c
+	"CloudHeader.h"
+
+1668532081 source:e:\projetos\cloudpassgames\cloudpassgames\telainicial.c
+	"CloudHeader.h"
+
+1668994904 source:e:\projetos\cloudpassgames\cloudpassgames\telalogincadastro.c
+	"CloudHeader.h"
+
+1669340376 source:e:\projetos\cloudpassgames\cloudpassgames\menuprincipal.c
+	"CloudHeader.h"
+

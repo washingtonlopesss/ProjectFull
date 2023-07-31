@@ -1,0 +1,15 @@
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\bin\Debug\net6.0\HelloWorldCShap.exe
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\bin\Debug\net6.0\HelloWorldCShap.deps.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\bin\Debug\net6.0\HelloWorldCShap.runtimeconfig.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\bin\Debug\net6.0\HelloWorldCShap.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\bin\Debug\net6.0\HelloWorldCShap.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.csproj.AssemblyReference.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.AssemblyInfoInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.AssemblyInfo.cs
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.csproj.CoreCompileInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\refint\HelloWorldCShap.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\HelloWorldCShap.genruntimeconfig.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\HelloWorldCShap\obj\Debug\net6.0\ref\HelloWorldCShap.dll

@@ -1,0 +1,15 @@
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.csproj.AssemblyReference.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.AssemblyInfoInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.AssemblyInfo.cs
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.csproj.CoreCompileInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\bin\Debug\net6.0\Calculadora de Descontos do Salario.exe
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\bin\Debug\net6.0\Calculadora de Descontos do Salario.deps.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\bin\Debug\net6.0\Calculadora de Descontos do Salario.runtimeconfig.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\bin\Debug\net6.0\Calculadora de Descontos do Salario.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\bin\Debug\net6.0\Calculadora de Descontos do Salario.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\refint\Calculadora de Descontos do Salario.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\Calculadora de Descontos do Salario.genruntimeconfig.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Calculadora de Descontos Salario\Calculadora de Descontos do Salario\obj\Debug\net6.0\ref\Calculadora de Descontos do Salario.dll

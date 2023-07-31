@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculadora de Descontos do Salario/1.0.0": {
+        "runtime": {
+          "Calculadora de Descontos do Salario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora de Descontos do Salario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

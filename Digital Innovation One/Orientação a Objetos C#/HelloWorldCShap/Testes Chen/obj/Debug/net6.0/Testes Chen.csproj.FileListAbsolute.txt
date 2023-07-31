@@ -1,0 +1,15 @@
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\bin\Debug\net6.0\Testes Chen.exe
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\bin\Debug\net6.0\Testes Chen.deps.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\bin\Debug\net6.0\Testes Chen.runtimeconfig.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\bin\Debug\net6.0\Testes Chen.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\bin\Debug\net6.0\Testes Chen.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.csproj.AssemblyReference.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.AssemblyInfoInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.AssemblyInfo.cs
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.csproj.CoreCompileInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\refint\Testes Chen.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\Testes Chen.genruntimeconfig.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\Testes Chen\obj\Debug\net6.0\ref\Testes Chen.dll

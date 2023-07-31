@@ -1,0 +1,15 @@
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.csproj.AssemblyReference.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.AssemblyInfoInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.AssemblyInfo.cs
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\bin\Debug\net6.0\DIO.exe
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\bin\Debug\net6.0\DIO.deps.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\bin\Debug\net6.0\DIO.runtimeconfig.json
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\bin\Debug\net6.0\DIO.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\bin\Debug\net6.0\DIO.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\refint\DIO.dll
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.pdb
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\DIO.genruntimeconfig.cache
+C:\Users\Washi\OneDrive\Documentos\Codes\Digital Innovation One\Orientação a Objetos C#\HelloWorldCShap\DIO\obj\Debug\net6.0\ref\DIO.dll
